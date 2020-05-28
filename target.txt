@@ -1,0 +1,92 @@
+/usr/lib/jvm/java-8-openjdk/bin/java -javaagent:/opt/idea/lib/idea_rt.jar=36397:/opt/idea/bin -Dfile.encoding=UTF-8 -classpath /usr/lib/jvm/java-8-openjdk/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/ext/cldrdata.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/ext/jaccess.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/ext/nashorn.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/ext/sunec.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/ext/zipfs.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/management-agent.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar:/home/explorer/project/scala/geo_extractor/target/scala-2.12/classes:/home/explorer/.sbt/boot/scala-2.12.10/lib/scala-library.jar:/home/explorer/.cache/coursier/v1/https/repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.28.0/sqlite-jdbc-3.28.0.jar Main
+gridId=-1732271230, blob size=66
+layer {id: 100008, size: 14}
+model {size: 12}
+raw {gridId: -1732271230, geomId: 1473135913, size: 0}
+layer {id: 8, size: 14}
+model {size: 12}
+raw {gridId: -1732271230, geomId: 1451681392, size: 0}
+layer {id: 1, size: 14}
+model {size: 12}
+raw {gridId: -1732271230, geomId: 1449327101, size: 0}
+gridId=-1732271229, blob size=66
+layer {id: 100008, size: 14}
+model {size: 12}
+raw {gridId: -1732271229, geomId: 1473135913, size: 0}
+layer {id: 8, size: 14}
+model {size: 12}
+raw {gridId: -1732271229, geomId: 1451681392, size: 0}
+layer {id: 1, size: 14}
+model {size: 12}
+raw {gridId: -1732271229, geomId: 1449327101, size: 0}
+gridId=-1732271228, blob size=66
+layer {id: 100008, size: 14}
+model {size: 12}
+raw {gridId: -1732271228, geomId: 1473135913, size: 0}
+layer {id: 8, size: 14}
+model {size: 12}
+raw {gridId: -1732271228, geomId: 1451681392, size: 0}
+layer {id: 1, size: 14}
+model {size: 12}
+raw {gridId: -1732271228, geomId: 1449327101, size: 0}
+gridId=-1732271227, blob size=66
+layer {id: 100008, size: 14}
+model {size: 12}
+raw {gridId: -1732271227, geomId: 1473135913, size: 0}
+layer {id: 8, size: 14}
+model {size: 12}
+raw {gridId: -1732271227, geomId: 1451681392, size: 0}
+layer {id: 1, size: 14}
+model {size: 12}
+raw {gridId: -1732271227, geomId: 1449327101, size: 0}
+gridId=-1732271226, blob size=66
+layer {id: 100008, size: 14}
+model {size: 12}
+raw {gridId: -1732271226, geomId: 1473135913, size: 0}
+layer {id: 8, size: 14}
+model {size: 12}
+raw {gridId: -1732271226, geomId: 1451681392, size: 0}
+layer {id: 1, size: 14}
+model {size: 12}
+raw {gridId: -1732271226, geomId: 1449327101, size: 0}
+gridId=-1732271225, blob size=66
+layer {id: 100008, size: 14}
+model {size: 12}
+raw {gridId: -1732271225, geomId: 1473135913, size: 0}
+layer {id: 8, size: 14}
+model {size: 12}
+raw {gridId: -1732271225, geomId: 1451681392, size: 0}
+layer {id: 1, size: 14}
+model {size: 12}
+raw {gridId: -1732271225, geomId: 1449327101, size: 0}
+gridId=-1732271224, blob size=66
+layer {id: 100008, size: 14}
+model {size: 12}
+raw {gridId: -1732271224, geomId: 1473135913, size: 0}
+layer {id: 8, size: 14}
+model {size: 12}
+raw {gridId: -1732271224, geomId: 1451681392, size: 0}
+layer {id: 1, size: 14}
+model {size: 12}
+raw {gridId: -1732271224, geomId: 1449327101, size: 0}
+gridId=-1732271223, blob size=307
+layer {id: 100008, size: 43}
+model {size: 41}
+raw {gridId: -1732271223, geomId: 1473135913, size: 29}
+layer {id: 1344444415, size: 63}
+model {size: 61}
+raw {gridId: -1732271223, geomId: 528218, size: 49}
+layer {id: 100047, size: 32}
+model {size: 30}
+raw {gridId: -1732271223, geomId: 1468580432, size: 18}
+layer {id: 1, size: 14}
+model {size: 12}
+raw {gridId: -1732271223, geomId: 1449327101, size: 0}
+layer {id: 8, size: 55}
+model {size: 53}
+raw {gridId: -1732271223, geomId: 1451681392, size: 41}
+layer {id: 47, size: 52}
+model {size: 50}
+raw {gridId: -1732271223, geomId: 1452497917, size: 38}
+
+Process finished with exit code 0
